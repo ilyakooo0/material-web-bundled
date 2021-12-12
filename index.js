@@ -22,3 +22,4 @@ import '@material/mwc-textarea';
 import '@material/mwc-textfield';
 import '@material/mwc-top-app-bar-fixed';
 import '@material/mwc-top-app-bar';
+import '@material/mwc-slider';
